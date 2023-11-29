@@ -18,11 +18,11 @@ Features:
 * Latest transmission features support: labels, bandwidth groups, sequential download
 * Dark/light/custom theme support
 
-## Screenshots
+### Screenshots
 
-![Main window]({attach}/img/trguing/screenshots/1.png)
-![Adding a torrent]({attach}/img/trguing/screenshots/2.png)
-![Dark theme, peers tab]({attach}/img/trguing/screenshots/3.png)
-![Creating new torrent]({attach}/img/trguing/screenshots/4.png)
-![Torrent properties]({attach}/img/trguing/screenshots/5.png)
-![Server settings]({attach}/img/trguing/screenshots/6.png)
+![Main window](../img/trguing/screenshots/1.png)
+![Adding a torrent](../img/trguing/screenshots/2.png)
+![Dark theme, peers tab](../img/trguing/screenshots/3.png)
+![Creating new torrent](../img/trguing/screenshots/4.png)
+![Torrent properties](../img/trguing/screenshots/5.png)
+![Server settings](../img/trguing/screenshots/6.png)
