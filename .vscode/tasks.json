@@ -11,6 +11,15 @@
                 "--autoreload",
                 "--listen",
             ]
-        }
+        },
+        {
+            "label": "pelican publish",
+            "type": "shell",
+            "command": ".venv/bin/pelican",
+            "args": [
+                "-s",
+                "publishconf.py",
+            ]
+        },
     ]
 }
