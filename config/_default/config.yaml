@@ -29,3 +29,8 @@ permalinks:
 # services:
 #   disqus:
 #     shortname: your-disqus-shortname
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

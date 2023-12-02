@@ -10,13 +10,11 @@ tags:
   - rust
   - typescript
   - tauri
-post:
-  params:
-    numberifyHeadings: false
+numberifyHeadings: false
 menu:
   main:
     identifier: trguing
-    weight: 1
+    weight: 2
     params:
       # icon: '<i class="fas fa-fw fa-blog"></i>'
       description: 'TrguiNG'
@@ -31,7 +29,7 @@ written in Rust and Typescript/React using Tauri framework and Mantine UI librar
 
 You can use this program in 2 ways: as a native Windows/Linux/Mac app and as a web gui served by transmission itself by setting `$TRANSMISSION_WEB_HOME` environment variable to point to TrguiNG web assets.
 
-**Features**
+### Features
 
 * Multi tabbed interface for concurrent server connections (native app only)
 * Torrent creation with fast multi threaded hashing (native app only)
@@ -41,7 +39,7 @@ You can use this program in 2 ways: as a native Windows/Linux/Mac app and as a w
 * Latest transmission features support: labels, bandwidth groups, sequential download
 * Dark/light/custom theme support
 
-**Links**
+### Links
 
 Source code:
 https://github.com/openscopeproject/TrguiNG
@@ -55,7 +53,7 @@ https://flathub.org/apps/org.openscopeproject.TrguiNG
 Arch AUR:
 https://aur.archlinux.org/packages/trgui-ng
 
-**Screenshots**
+### Screenshots
 
 ![Main window](/img/trguing/screenshots/1.png "Main window")
 ![Adding a torrent](/img/trguing/screenshots/2.png "Adding a torrent")
