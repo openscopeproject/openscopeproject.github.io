@@ -1,0 +1,31 @@
+baseURL: https://openscopeproject.org/
+title: OpenScopeProject
+theme: hugo-theme-bootstrap
+copyright: 'Copyright © 2023-{year} qu1ck. All Rights Reserved.'
+languageCode: en-us
+defaultContentLanguage: en
+paginate: 10
+# paginatePath: page
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+blackfriday:
+  hrefTargetBlank: true
+
+taxonomies:
+  category: categories
+  # series: series
+  tag: tags
+  # authors: authors
+
+build:
+  writeStats: true
+
+permalinks:
+  news: /news/:year/:month/:title/
+  blog: /blog/:year/:month/:title/
+
+# services:
+#   disqus:
+#     shortname: your-disqus-shortname

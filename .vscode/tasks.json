@@ -4,22 +4,18 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "pelican",
+            "label": "hugo serve",
             "type": "shell",
-            "command": ".venv/bin/pelican",
+            "command": "hugo",
             "args": [
-                "--autoreload",
-                "--listen",
+                "server",
             ]
         },
         {
-            "label": "pelican publish",
+            "label": "hugo build",
             "type": "shell",
-            "command": ".venv/bin/pelican",
-            "args": [
-                "-s",
-                "publishconf.py",
-            ]
+            "command": "hugo",
+            "args": []
         },
     ]
 }

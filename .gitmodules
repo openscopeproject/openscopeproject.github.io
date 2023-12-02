@@ -1,6 +1,3 @@
-[submodule "theme"]
-	path = theme
-	url = https://github.com/shvchk/bootstrap-next
-[submodule "pelican-plugins"]
-	path = pelican-plugins
-	url = https://github.com/getpelican/pelican-plugins.git
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap

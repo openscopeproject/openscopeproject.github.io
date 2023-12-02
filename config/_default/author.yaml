@@ -1,0 +1,15 @@
+name: qu1ck
+avatar: img/profile.jpg # Avatar image. Default to "images/profile.webp".
+bio: Software Engineer with compulsive hardware tinkering tendencies
+# company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: California, US # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+# about: https://....com # The external about page. The internal about page will be used if not set.
+params: {
+  # layout: compact
+}
+# See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
+social:
+  email: mail@qu1ck.org
+  github: openscopeproject
+  gitlab: qu1ck
+  rss: "" # Remove RSS
