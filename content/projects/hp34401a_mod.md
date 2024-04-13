@@ -9,7 +9,7 @@ tags:
   - c++
 numberifyHeadings: false
 summary: |
-  <img src="https://i.imgur.com/FP5pQ6R.jpg" />
+  <img src="https://camo.githubusercontent.com/8999ff76ea1fcc991fe53aaf6e786419f53e97fe31e5cc14d2cb84c5bdff0327/68747470733a2f2f692e696d6775722e636f6d2f556163557971792e6a7067" />
   <p>OLED display replacement for HP's legendary 34401a 6½ digit multimeter.</p>
 ---
 

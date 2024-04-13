@@ -143,12 +143,12 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: openscopeproject/TrguiNG # Replace with your repository.
+  repo: openscopeproject/openscopeproject.github.io # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
   # label: comment
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
   # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
-  #theme:
+  theme: dark
 
 #staticman:
   #endpoint: https://yourstaticmaninstance # Required, replace with your own Staticman instance.
