@@ -143,7 +143,7 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: openscopeproject/openscopeproject.github.io # Replace with your repository.
+  # repo: openscopeproject/openscopeproject.github.io # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
   # label: comment
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -169,10 +169,10 @@ utterances:
 
 # See https://giscus.app
 giscus:
-  # repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  # repoId: "R_kgDOHJi95g" # required.
-  # category: "General" # required.
-  # categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
+  repo: "openscopeproject/openscopeproject.github.io" # required.
+  repoId: "MDEwOlJlcG9zaXRvcnkxMDc2Mzg2MzM=" # required.
+  category: "Site comments" # required.
+  categoryId: "DIC_kwDOBmpvac4CeqPV" # required.
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
